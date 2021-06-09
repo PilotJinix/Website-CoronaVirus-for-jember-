@@ -103,8 +103,6 @@ class Akun{
         }
     }
 
-
-
     public function clearsession(){
         session_destroy();
     }
